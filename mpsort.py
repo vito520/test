@@ -4,5 +4,5 @@ def mpsort(nums):
             if nums[j]>nums[j+1]:
                 nums[j],nums[j+1]=nums[j+1],nums[j]
     return nums
-nums=[5,2,6,3,9,4,2,5,1]
+nums=[5,2,6,3,9,4,11,2,5,1]
 print(mpsort(nums))
