@@ -1,2 +1,2 @@
-[root@linux1 qimo]# git pull --rebase origin master 
-[root@linux1 qimo]# git push -u origin master
+git pull --rebase origin master 
+git push -u origin master
